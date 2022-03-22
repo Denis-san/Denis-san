@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá! Eu sou Denilson Santana, estudante, entusiasta e apaixonado por tecnologia desde quando a conheci, haha. Atualmente estou em busca de me tornar um desenvolvedor back-end utilizando a linguagem Java. Conheci esse maravilhoso mundo da programação desde o último ano do ensino médio, onde começei a me interessar por desenvolvimento de software e estudava/praticava nas horas vagas, daí decidi cursar Engenharia de Computação, onde, estou cursando atualmente.
+Olá! Eu sou Denilson Santana, estudante, entusiasta e apaixonado por tecnologia desde quando a conheci, haha. Atualmente estou em busca de me tornar um desenvolvedor back-end utilizando a linguagem Java. Conheci esse maravilhoso mundo da programação desde o último ano do ensino médio, onde comecei a me interessar por desenvolvimento de software e estudava/praticava nas horas vagas, daí decidi cursar Engenharia de Computação, onde, estou cursando atualmente.
 
 #
 🔭 Atualmente estou procurando por oportunidades.
