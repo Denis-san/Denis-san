@@ -23,7 +23,11 @@ Olá! Eu sou Denilson Santana, estudante, entusiasta e apaixonado por tecnologia
 #
 
 ### ⚡ Algumas tecnologias que tenho conhecimentos:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" heigth="45"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="45" heigth="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" heigth="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" heigth="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" heigth="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="45" heigth="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="45" heigth="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" heigth="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" heigth="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" heigth="45"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" heigth="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" heigth="45"/>
+          
+          
+          
 
 #
 ### 📚 Estou aprendendo:
@@ -31,7 +35,8 @@ Olá! Eu sou Denilson Santana, estudante, entusiasta e apaixonado por tecnologia
 - Spring Framework (Spring MVC, AOP, Spring Security, Spring REST, Spring Boot);
 - Thymeleaf;
 - Java Persistence API (JPA) & Hibernate;
-- Git e Github;
+- Postgresql;
+
 
 #
 ### 📞 Contatos:
