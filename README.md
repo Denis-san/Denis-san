@@ -16,27 +16,30 @@ Here are some ideas to get you started:
 
 Olá! Eu sou Denilson Santana, estudante, entusiasta e apaixonado por tecnologia desde quando a conheci, haha. Atualmente estou em busca de me tornar um desenvolvedor back-end utilizando a linguagem Java. Conheci esse maravilhoso mundo da programação desde o último ano do ensino médio, onde comecei a me interessar por desenvolvimento de software e estudava/praticava nas horas vagas, daí decidi cursar Engenharia de Computação, onde, estou cursando atualmente.
 
+- 🎓 Cursando Ciências Exatas e Tecnológicas. Ênfase: Engenharia de Computação (UFRB)
 #
-🔭 Atualmente estou procurando por oportunidades.
-
-🏫 Cursando Ciências Exatas e Tecnológicas - Engenharia de Computação (UFRB)
-#
-
-### ⚡ Algumas tecnologias que tenho conhecimentos:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" heigth="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="45" heigth="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  width="45" heigth="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" heigth="45" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45" heigth="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" heigth="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" heigth="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" heigth="45"/>
-          
-          
-          
-
-#
-### 📚 Estou aprendendo:
-
-- Spring Framework (Spring MVC, AOP, Spring Security, Spring REST, Spring Boot);
-- Thymeleaf;
-- Java Persistence API (JPA) & Hibernate;
-- Postgresql;
-
+- ⚡ **Conhecimentos em:**
+    - Java: classes, atributos e métodos, construtores, sobrecarga, encapsulamento, estruturas de dados (arrays e coleções), enumerações, composição, herança, polimorfismo, interfaces, tratamento de exceções, generics, expressões lambda, Stream API, manipulação de arquivos.
+    - Git e Github: operações básicas (init, add, commit, stash, pull, push, checkout, etc..), gerenciamento de branches e conflitos de mesclagem (merge), gerenciamento de repositórios locais e remotos, práticas recomendadas do uso do git.
+    - Html, Css, Bootstrap, Javascript.
+    - SQL, basics commands: inserts, updates, selects, joins, etc. sgbd's: Postgresql, mysql.
+    - **Ferramentas e frameworks:** 
+        - Eclipse Ide, Netbeans Ide
+        - Diagramas UML
+        - Spring Framework
+        - Mapeamento objeto-relacional com JPA
+        - Acesso a dados com Spring Data
+        - Spring MVC
+        - Thymeleaf
+        - Spring Boot
+        - Java Persistence API (JPA) & Hibernate
+        - Linux - fundamentos, basic commands
+               
+- 🌱 **I’m currently learning / Estou aprendendo:**
+   - Spring Security 
+   - Spring REST API's
+   - Testes Unitários com Junit5, PowerMock (Mockito)
+   - Autenticação e autorização com token, JWT
 
 #
 ### 📞 Contatos:
