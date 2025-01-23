@@ -21,9 +21,6 @@ Diagramas UML | Spring Framework (Spring MVC, Spring REST API's, Spring Security
   
 🎯 Testes de integração com Mockito, JUnit 5, REST Assured e TestContainers <br>
 🎯 Docker Compose <br>
-🎯 Integração e Deploy Contínuos (CI/CD) com Github, Github Actions e Amazon AWS <br>
-🎯 DynamoDB, AWS S3, AWS SNS, AWS ECS, AWS Cloud Development Kit (CDK), AWS SQS, AWS RDS <br>
-🎯 Microsserviços com Spring Boot <br>
    
 
 #
