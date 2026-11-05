@@ -1,35 +1,55 @@
-### Hi there 👋        
+# Denilson Santana da Conceição
 
-Olá! Eu sou Denilson Santana, estudante, entusiasta e apaixonado por tecnologia, especialmente, por desenvolvimento backend. Atualmente estou em busca de me tornar um desenvolvedor back-end utilizando como linguagem principal, Java. Aqui estarão todos os projetos que desenvolvi durante essa jornada, seja projetos pessoais afins de exercitar os conhecimentos ou projetos desenvolvidos e requisitados durante a graduação em Engenharia de Computação.
+**Desenvolvedor Backend Java | Spring Boot | Camunda BPM**
 
-### Sobre mim
+Desenvolvedor Java com experiência em APIs REST com Spring Boot, orquestração de processos com Camunda BPM/BPMN, controle de acesso e conformidade (Spring Security, JWT, LGPD). Bacharel em Ciências Exatas e Tecnológicas (UFRB), cursando Engenharia da Computação. Em busca de oportunidades como desenvolvedor Java júnior.
 
-- 🎓 Bacharelado Ciências Exatas e Tecnológicas. Ênfase: Engenharia de Computação - UFRB (em andamento)
-- 👨‍💻 Desenvolvedor Backend
-- 💼 [Engenhe Jr](https://engenhejr.com.br/)
+---
 
-### Habilidades, conhecimentos em:
+## Experiência
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+- **Estagiário em Análise e Desenvolvimento de Sistemas, Embrapa (2024–2026):** modelagem BPMN e orquestração com Camunda BPM, integrações entre o motor de processos, a API e serviços internos e externos, e arquitetura multi-tenant, proposta, planejada e implementada por mim.
+- **Bolsista de Iniciação Científica (CNPq), Embrapa (2023–2024):** API REST em Java/Spring, correção de falhas de controle de acesso, camada de IAM com chaves de API e redução do tempo de resposta de endpoints de ~4 s para menos de 1 s, com análise de logs de queries SQL.
+- **Projetista do Núcleo de Computação, voluntário (2023–2025):** sistema fullstack (Vue.js + Java) do zero, com autenticação em duas etapas (2FA/OTP), rate limiting, adequação à LGPD e trilha de auditoria.
 
-#### Ferramentas e frameworks em que tive contato:
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-Diagramas UML | Spring Framework (Spring MVC, Spring REST API's, Spring Security, Spring Data, Spring Boot) | Mapeamento objeto-relacional com Java Persistence API (JPA) & Hibernate |  Thymeleaf | Autenticação e autorização com token JWT |
-               
-### I’m currently learning / Estou aprendendo:
-  
-🎯 Testes de integração com Mockito, JUnit 5, REST Assured e TestContainers <br>
-🎯 Docker Compose <br>
-   
+## Stack
 
-#
-### 📞 Contatos:
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=spring&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda_BPM-FC5D0D?style=flat&logo=camunda&logoColor=white)
 
-<a href = "mailto:denilson.nt.nc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/denilson-santana-5b32071b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+**Dados e infraestrutura**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-#
-Thanks for visiting!
+**Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white)
 
+**Testes e ferramentas**
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+
+**Conhecimentos:** Spring (MVC, REST, Security, Data JPA), JPA/Hibernate, autenticação e autorização com JWT, Swagger/OpenAPI, Thymeleaf, diagramas UML, BPMN.
+
+**Também já utilizei:** C, C++, HTML, CSS, JavaScript, MySQL, Linux.
+
+---
+
+## Estudando atualmente
+
+- Testes de integração com JUnit 5, REST Assured e Testcontainers
+- Camunda 8 (Zeebe e Job Workers)
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denilson-santana-conceicao)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:denilson.nt.nc@gmail.com)
